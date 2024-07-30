@@ -81,13 +81,13 @@ class Vista:
 
 
     def modificarTexto(self):
-        print("hola")
+        print("modificado")
 
     def mostrarTexto(self):
-        print("loas")
+        print("mostrado")
 
     def eliminarTexto(self):
-        print("Qwe")
+        print("eliminado")
 
     def salir(self,Ventana):
         Ventana.destroy()
